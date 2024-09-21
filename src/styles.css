@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 10dvh;
+}
+
+.custom-drop-shadow {
+  box-shadow: 0px 4px 30px 0px #00000040;
+}
